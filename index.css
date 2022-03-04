@@ -1,0 +1,135 @@
+.navigation-head {
+    text-align: center; 
+    color:black; 
+    border: 1px solid black;
+
+}
+
+.header {
+    width: 100%;
+    height: 50%; 
+    background-color: grey;
+
+}
+
+.header-sizing {
+    color: white;
+    text-decoration: none;
+    padding: 10px; 
+    margin: 10px;
+
+}
+
+.menu {
+    display: block;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    overflow: hidden;
+    
+}
+
+.menu:hover {
+    
+    color: red;
+
+}
+
+.menu-tab {
+    margin-right: 20px; 
+
+}
+
+button {
+    background-color: blue;
+    color: white;
+    float: right;
+
+}
+
+.overall-layout {
+    border: 5px solid black;
+    background-color:darkseagreen;
+
+}
+
+.header-1 {
+    width: 100%;
+    height: 50%;
+    background-color: blue; 
+
+}
+
+.holy-grail {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: 100vh;
+    width: 100%;
+    flex-grow: inherit; 
+    align-items: space-around;
+
+}
+
+.baby-1 {
+    background-color: cadetblue;
+    align-items: flex-start;
+    height: 100vh;
+    width: 25vw;
+    margin-right: 2%;
+    margin-left: 1%; 
+    text-align: center;
+
+}
+
+.baby-2 {
+    background-color: gray;
+    align-items: flex-start;
+    height: 100vh;
+    width: 50vw;
+    align-items:space-around; 
+    margin-right: 2%;
+
+}
+
+.baby-3 {
+    background-color: cadetblue;
+    align-items: flex-start;
+    height: 100vh;
+    width: 25vw; 
+    margin-right: 1%;
+
+}
+
+.footer {
+    width: 100%;
+    height: 50%;
+    background-color: blue;
+
+}
+
+.footer-header {
+    text-align: center;
+    padding: 10px; 
+    margin: 10px;
+
+}
+
+.column-baby-1 {
+    text-align: center;
+    margin-top: 100%;
+
+}
+
+.column-baby-2 {
+    text-align: center;
+    margin-top: 50%;
+    
+}
